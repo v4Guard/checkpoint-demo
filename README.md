@@ -3,7 +3,7 @@
 A simple demo implementing Checkpoint widget on a form application using Express.js
 
 ## Documentation
-Please, refer to our [documentation](https://docs.v4guard.com/checkpoint) for more information about getting started with Checkpoint.
+Please, refer to our [documentation](https://docs.v4guard.io/checkpoint) for more information about getting started with Checkpoint.
 
 ## Setup
 
