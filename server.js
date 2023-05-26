@@ -40,12 +40,9 @@ app.post('/login', (req, res) => {
         body: body
     };
 
-    console.log(body);
-
     fetch(url, options)
         .then(res => res.json())
         .then(json => {
-            console.log(json);
 
             if (!json.success) {
                 return res.render('index', {
