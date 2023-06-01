@@ -1,6 +1,6 @@
 # v4Guard Checkpoint - Demonstration
 
-A simple demo implementing Checkpoint widget on a form application using Express.js
+This repository contains a simple demo implementing the v4Guard Checkpoint's widget on a simple form application using Express.js
 
 ## Documentation
 Please, refer to our [documentation](https://docs.v4guard.io/checkpoint) for more information about getting started with Checkpoint.
